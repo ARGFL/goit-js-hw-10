@@ -1,0 +1,23 @@
+.breed-select {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 300px;
+    margin-left: 40px;
+  }
+  
+  .loader, .error {
+    display: none;
+    font-size: 16px;
+    color: #ff0000;
+  }
+  
+  .loader {
+    color: #0000ff;
+  }
+  
+  .cat-info {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
